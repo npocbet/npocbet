@@ -7,8 +7,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/npocbet/Flask-project-for-yandex-lyceum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npocbet&repo=Flask-project-for-yandex-lyceum" />
 </a>
 
 - 🌱 I’m currently learning Selenide (Java, Selenoid, Allure, Jenkins)
