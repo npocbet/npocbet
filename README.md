@@ -2,8 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npocbet)](https://github.com/npocbet/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npocbet&layout=compact)](https://github.com/npocbet/qaguru_13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npocbet&layout=compact)](https://github.com/npocbet/Flask-project-for-yandex-lyceum)
 
 <a href="https://github.com/npocbet/qaguru_13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npocbet&repo=qaguru_13" />
