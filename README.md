@@ -4,8 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npocbet&layout=compact)](https://github.com/npocbet/npocbet)
 
-<a href="https://github.com/npocbet/qaguru_13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npocbet&repo=qaguru_13" />
+<a href="https://github.com/npocbet/whitecatnsktests">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npocbet&repo=whitecatnsktests" />
 </a>
 <a href="https://github.com/npocbet/Flask-project-for-yandex-lyceum">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npocbet&repo=Flask-project-for-yandex-lyceum" />
