@@ -10,6 +10,9 @@
 <a href="https://github.com/npocbet/Flask-project-for-yandex-lyceum">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npocbet&repo=Flask-project-for-yandex-lyceum" />
 </a>
+<a href="https://github.com/npocbet/qa_guru_mobile_tests">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npocbet&repo=qa_guru_mobile_tests" />
+</a>
 
 - 🌱 I’m currently learning Selenide (Java, Selenoid, Allure, Jenkins)
 - 👯 I’m looking to collaborate on а young ambitious companies and people.
